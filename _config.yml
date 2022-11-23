@@ -271,7 +271,7 @@ I scored 100% marks in the final assessment and also a top performer in the trai
                         </h5>
                         <p class="experience-description text-align-justify"> This course helped me gain deeper insight
                             in Blockchain and IOT. The Projects and assignments are of very
-                            good standard.I I
+                            good standard.I 
                             learnt a lot while doing the Projects. </p>
                     </div>
                 </div>
@@ -282,7 +282,7 @@ I scored 100% marks in the final assessment and also a top performer in the trai
                         </div>
                         <h3 class="experience-designation m0 m-blue"> SDE INTERNSHIP </h3>
                         <h4 class="experience-company-name"> FastFindFirm </h4>
-                        <h5 class="experience-duration m0"> JUNE 2022 - PRESENT
+                        <h5 class="experience-duration m0"> JUNE 2022 - AUGUST 2022
                         </h5>
                         <p class="experience-description text-align-justify">  </p>
                     </div>
@@ -294,7 +294,7 @@ I scored 100% marks in the final assessment and also a top performer in the trai
                         </div>
                         <h3 class="experience-designation m0 m-blue"> WEB DEVELOPMENT INTERNSHIP </h3>
                         <h4 class="experience-company-name"> Intern'spedia </h4>
-                        <h5 class="experience-duration m0"> JULY 2022 - PRESENT
+                        <h5 class="experience-duration m0"> JULY 2022 - JULY 2022
                         </h5>
                         <p class="experience-description text-align-justify">  </p>
                     </div>
@@ -387,10 +387,20 @@ I scored 100% marks in the final assessment and also a top performer in the trai
 
                 </div>
                 <div class="portfolio-image-container">
+                    <img src="dental.jpg">
+                    <div class="portfolio-details">
+                        <h4>
+                            My Dental Clinic Portal
+                        </h4>
+                        <a href="https://github.com/mishraji9579/MY-DENTAL-CLINIC.git">Click Me</a>
+                    </div>
+                </div>
+
+                <div class="portfolio-image-container">
                     <img src="tip.jpg">
                     <div class="portfolio-details">
                         <h4>
-                            Tip Off Application Using Blockchain (working)
+                            Anonymous Crime Evidence System (working)
                         </h4>
                         
                     </div>
